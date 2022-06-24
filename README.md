@@ -28,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 # License
 
 [MIT]()
+
+![Lorem picsum](https://picsum.photos/id/0/300/200)
