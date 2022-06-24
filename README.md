@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 
 [MIT]()
 
-![Lorem picsum](https://picsum.photos/id/0/5616/3744)
+![Lorem picsum](https://picsum.photos/id/0/300/200)
