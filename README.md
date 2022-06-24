@@ -28,5 +28,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önce neyi d
 # License
 
 [MIT]()
-
-![Kodluyoruz logo](https://medium.com/@kodluyoruz)
